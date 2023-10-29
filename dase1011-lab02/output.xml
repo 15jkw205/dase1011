@@ -1,0 +1,5281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+  <vehicle>
+    <ID>1</ID>
+    <mpg>18</mpg>
+    <cylinders>8</cylinders>
+    <displacement>307</displacement>
+    <horsepower>130</horsepower>
+    <weight>3504</weight>
+    <acceleration>12</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevelle malibu</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>2</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>165</horsepower>
+    <weight>3693</weight>
+    <acceleration>11.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>buick skylark 320</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>3</ID>
+    <mpg>18</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>3436</weight>
+    <acceleration>11</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>plymouth satellite</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>4</ID>
+    <mpg>16</mpg>
+    <cylinders>8</cylinders>
+    <displacement>304</displacement>
+    <horsepower>150</horsepower>
+    <weight>3433</weight>
+    <acceleration>12</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>amc rebel sst</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>5</ID>
+    <mpg>17</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>140</horsepower>
+    <weight>3449</weight>
+    <acceleration>10.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>ford torino</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>6</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>429</displacement>
+    <horsepower>198</horsepower>
+    <weight>4341</weight>
+    <acceleration>10</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>ford galaxie 500</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>7</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>454</displacement>
+    <horsepower>220</horsepower>
+    <weight>4354</weight>
+    <acceleration>9</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>chevrolet impala</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>8</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>440</displacement>
+    <horsepower>215</horsepower>
+    <weight>4312</weight>
+    <acceleration>8.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>plymouth fury iii</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>9</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>455</displacement>
+    <horsepower>225</horsepower>
+    <weight>4425</weight>
+    <acceleration>10</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>pontiac catalina</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>10</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>390</displacement>
+    <horsepower>190</horsepower>
+    <weight>3850</weight>
+    <acceleration>8.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>amc ambassador dpl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>11</ID>
+    <mpg>NA</mpg>
+    <cylinders>4</cylinders>
+    <displacement>133</displacement>
+    <horsepower>115</horsepower>
+    <weight>3090</weight>
+    <acceleration>17.5</acceleration>
+    <model year>70</model year>
+    <origin>2</origin>
+    <car name>citroen ds-21 pallas</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>12</ID>
+    <mpg>NA</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>165</horsepower>
+    <weight>4142</weight>
+    <acceleration>101.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevelle concours (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>13</ID>
+    <mpg>NA</mpg>
+    <cylinders>8</cylinders>
+    <displacement>351</displacement>
+    <horsepower>153</horsepower>
+    <weight>4034</weight>
+    <acceleration>11</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>ford torino (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>14</ID>
+    <mpg>NA</mpg>
+    <cylinders>8</cylinders>
+    <displacement>383</displacement>
+    <horsepower>175</horsepower>
+    <weight>4166</weight>
+    <acceleration>10.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>plymouth satellite (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>15</ID>
+    <mpg>NA</mpg>
+    <cylinders>8</cylinders>
+    <displacement>360</displacement>
+    <horsepower>175</horsepower>
+    <weight>3850</weight>
+    <acceleration>11</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>amc rebel sst (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>16</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>383</displacement>
+    <horsepower>170</horsepower>
+    <weight>3563</weight>
+    <acceleration>10</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>dodge challenger se</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>17</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>340</displacement>
+    <horsepower>160</horsepower>
+    <weight>3609</weight>
+    <acceleration>8</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>plymouth 'cuda 340</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>18</ID>
+    <mpg>NA</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>140</horsepower>
+    <weight>3353</weight>
+    <acceleration>8</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>ford mustang boss 302</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>19</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>150</horsepower>
+    <weight>3761</weight>
+    <acceleration>9.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>chevrolet monte carlo</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>20</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>455</displacement>
+    <horsepower>225</horsepower>
+    <weight>3086</weight>
+    <acceleration>10</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>buick estate wagon (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>21</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>113</displacement>
+    <horsepower>955</horsepower>
+    <weight>2372</weight>
+    <acceleration>15</acceleration>
+    <model year>70</model year>
+    <origin>3</origin>
+    <car name>toyota corona mark ii</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>22</ID>
+    <mpg>22</mpg>
+    <cylinders>6</cylinders>
+    <displacement>198</displacement>
+    <horsepower>95</horsepower>
+    <weight>2833</weight>
+    <acceleration>15.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>plymouth duster</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>23</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>199</displacement>
+    <horsepower>97</horsepower>
+    <weight>2774</weight>
+    <acceleration>15.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>amc hornet</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>24</ID>
+    <mpg>21</mpg>
+    <cylinders>6</cylinders>
+    <displacement>200</displacement>
+    <horsepower>85</horsepower>
+    <weight>2587</weight>
+    <acceleration>16</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>ford maverick</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>25</ID>
+    <mpg>27</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>88</horsepower>
+    <weight>2130</weight>
+    <acceleration>14.5</acceleration>
+    <model year>70</model year>
+    <origin>3</origin>
+    <car name>datsun pl510</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>26</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>46</horsepower>
+    <weight>1835</weight>
+    <acceleration>20.5</acceleration>
+    <model year>70</model year>
+    <origin>2</origin>
+    <car name>volkswagen 1131 deluxe sedan</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>27</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>110</displacement>
+    <horsepower>87</horsepower>
+    <weight>2672</weight>
+    <acceleration>17.5</acceleration>
+    <model year>70</model year>
+    <origin>2</origin>
+    <car name>peugeot 504</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>28</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>107</displacement>
+    <horsepower>90</horsepower>
+    <weight>2430</weight>
+    <acceleration>14.5</acceleration>
+    <model year>70</model year>
+    <origin>2</origin>
+    <car name>audi 100 ls</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>29</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>104</displacement>
+    <horsepower>95</horsepower>
+    <weight>2375</weight>
+    <acceleration>17.5</acceleration>
+    <model year>70</model year>
+    <origin>2</origin>
+    <car name>saab 99e</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>30</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>113</horsepower>
+    <weight>2234</weight>
+    <acceleration>12.5</acceleration>
+    <model year>70</model year>
+    <origin>2</origin>
+    <car name>bmw 2002</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>31</ID>
+    <mpg>21</mpg>
+    <cylinders>6</cylinders>
+    <displacement>199</displacement>
+    <horsepower>90</horsepower>
+    <weight>2648</weight>
+    <acceleration>15</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>amc gremlin</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>32</ID>
+    <mpg>10</mpg>
+    <cylinders>8</cylinders>
+    <displacement>360</displacement>
+    <horsepower>215</horsepower>
+    <weight>4615</weight>
+    <acceleration>14</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>ford f250</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>33</ID>
+    <mpg>10</mpg>
+    <cylinders>8</cylinders>
+    <displacement>307</displacement>
+    <horsepower>200</horsepower>
+    <weight>4376</weight>
+    <acceleration>15</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>chevy c20</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>34</ID>
+    <mpg>11</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>210</horsepower>
+    <weight>4382</weight>
+    <acceleration>13.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>dodge d200</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>35</ID>
+    <mpg>9</mpg>
+    <cylinders>8</cylinders>
+    <displacement>304</displacement>
+    <horsepower>193</horsepower>
+    <weight>4732</weight>
+    <acceleration>18.5</acceleration>
+    <model year>70</model year>
+    <origin>1</origin>
+    <car name>hi 1200d</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>36</ID>
+    <mpg>27</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>88</horsepower>
+    <weight>2130</weight>
+    <acceleration>14.5</acceleration>
+    <model year>71</model year>
+    <origin>3</origin>
+    <car name>datsun pl510</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>37</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>90</horsepower>
+    <weight>2264</weight>
+    <acceleration>15.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>chevrolet vega 2300</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>38</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>113</displacement>
+    <horsepower>95</horsepower>
+    <weight>2228</weight>
+    <acceleration>14</acceleration>
+    <model year>71</model year>
+    <origin>3</origin>
+    <car name>toyota corona</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>39</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>NA</horsepower>
+    <weight>2046</weight>
+    <acceleration>19</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>ford pinto</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>40</ID>
+    <mpg>NA</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>48</horsepower>
+    <weight>1978</weight>
+    <acceleration>20</acceleration>
+    <model year>71</model year>
+    <origin>2</origin>
+    <car name>volkswagen super beetle 117</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>41</ID>
+    <mpg>19</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>100</horsepower>
+    <weight>2634</weight>
+    <acceleration>13</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>amc gremlin</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>42</ID>
+    <mpg>16</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>105</horsepower>
+    <weight>3439</weight>
+    <acceleration>15.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>plymouth satellite custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>43</ID>
+    <mpg>17</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>100</horsepower>
+    <weight>3329</weight>
+    <acceleration>15.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevelle malibu</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>44</ID>
+    <mpg>19</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>88</horsepower>
+    <weight>3302</weight>
+    <acceleration>15.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>ford torino 500</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>45</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>100</horsepower>
+    <weight>3288</weight>
+    <acceleration>15.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>amc matador</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>46</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>165</horsepower>
+    <weight>4209</weight>
+    <acceleration>12</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>chevrolet impala</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>47</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>175</horsepower>
+    <weight>4464</weight>
+    <acceleration>11.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>pontiac catalina brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>48</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>351</displacement>
+    <horsepower>153</horsepower>
+    <weight>4154</weight>
+    <acceleration>13.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>ford galaxie 500</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>49</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>4096</weight>
+    <acceleration>13</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>plymouth fury iii</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>50</ID>
+    <mpg>12</mpg>
+    <cylinders>8</cylinders>
+    <displacement>383</displacement>
+    <horsepower>180</horsepower>
+    <weight>4955</weight>
+    <acceleration>11.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>dodge monaco (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>51</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>170</horsepower>
+    <weight>4746</weight>
+    <acceleration>12</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>ford country squire (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>52</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>175</horsepower>
+    <weight>5140</weight>
+    <acceleration>12</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>pontiac safari (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>53</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>258</displacement>
+    <horsepower>110</horsepower>
+    <weight>2962</weight>
+    <acceleration>13.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>amc hornet sportabout (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>54</ID>
+    <mpg>22</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>72</horsepower>
+    <weight>2408</weight>
+    <acceleration>19</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>chevrolet vega (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>55</ID>
+    <mpg>19</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>100</horsepower>
+    <weight>3282</weight>
+    <acceleration>15</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>pontiac firebird</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>56</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>88</horsepower>
+    <weight>3139</weight>
+    <acceleration>14.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>ford mustang</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>57</ID>
+    <mpg>23</mpg>
+    <cylinders>4</cylinders>
+    <displacement>122</displacement>
+    <horsepower>86</horsepower>
+    <weight>2220</weight>
+    <acceleration>14</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>mercury capri 2000</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>58</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>116</displacement>
+    <horsepower>90</horsepower>
+    <weight>2123</weight>
+    <acceleration>14</acceleration>
+    <model year>71</model year>
+    <origin>2</origin>
+    <car name>opel 1900</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>59</ID>
+    <mpg>30</mpg>
+    <cylinders>4</cylinders>
+    <displacement>6</displacement>
+    <horsepower>70</horsepower>
+    <weight>2074</weight>
+    <acceleration>19.5</acceleration>
+    <model year>71</model year>
+    <origin>2</origin>
+    <car name>peugeot 304</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>60</ID>
+    <mpg>30</mpg>
+    <cylinders>4</cylinders>
+    <displacement>88</displacement>
+    <horsepower>76</horsepower>
+    <weight>2065</weight>
+    <acceleration>14.5</acceleration>
+    <model year>71</model year>
+    <origin>2</origin>
+    <car name>fiat 124b</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>61</ID>
+    <mpg>31</mpg>
+    <cylinders>4</cylinders>
+    <displacement>71</displacement>
+    <horsepower>65</horsepower>
+    <weight>1773</weight>
+    <acceleration>19</acceleration>
+    <model year>71</model year>
+    <origin>3</origin>
+    <car name>toyota corolla 1200</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>62</ID>
+    <mpg>35</mpg>
+    <cylinders>4</cylinders>
+    <displacement>72</displacement>
+    <horsepower>69</horsepower>
+    <weight>1613</weight>
+    <acceleration>18</acceleration>
+    <model year>71</model year>
+    <origin>3</origin>
+    <car name>datsun 1200</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>63</ID>
+    <mpg>27</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>60</horsepower>
+    <weight>1834</weight>
+    <acceleration>19</acceleration>
+    <model year>71</model year>
+    <origin>2</origin>
+    <car name>volkswagen model 111</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>64</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>70</horsepower>
+    <weight>1955</weight>
+    <acceleration>20.5</acceleration>
+    <model year>71</model year>
+    <origin>1</origin>
+    <car name>plymouth cricket</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>65</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>113</displacement>
+    <horsepower>95</horsepower>
+    <weight>2278</weight>
+    <acceleration>15.5</acceleration>
+    <model year>72</model year>
+    <origin>3</origin>
+    <car name>toyota corona hardtop</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>66</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97.5</displacement>
+    <horsepower>80</horsepower>
+    <weight>2126</weight>
+    <acceleration>17</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>dodge colt hardtop</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>67</ID>
+    <mpg>23</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>54</horsepower>
+    <weight>2254</weight>
+    <acceleration>23.5</acceleration>
+    <model year>72</model year>
+    <origin>2</origin>
+    <car name>volkswagen type 3</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>68</ID>
+    <mpg>20</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>90</horsepower>
+    <weight>2408</weight>
+    <acceleration>19.5</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>chevrolet vega</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>69</ID>
+    <mpg>21</mpg>
+    <cylinders>4</cylinders>
+    <displacement>122</displacement>
+    <horsepower>86</horsepower>
+    <weight>2226</weight>
+    <acceleration>16.5</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>ford pinto runabout</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>70</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>165</horsepower>
+    <weight>4274</weight>
+    <acceleration>12</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>chevrolet impala</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>71</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>175</horsepower>
+    <weight>0</weight>
+    <acceleration>12</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>pontiac catalina</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>72</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>4135</weight>
+    <acceleration>13.5</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>plymouth fury iii</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>73</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>351</displacement>
+    <horsepower>153</horsepower>
+    <weight>4129</weight>
+    <acceleration>13</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>ford galaxie 500</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>74</ID>
+    <mpg>17</mpg>
+    <cylinders>8</cylinders>
+    <displacement>304</displacement>
+    <horsepower>150</horsepower>
+    <weight>3672</weight>
+    <acceleration>11.5</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>amc ambassador sst</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>75</ID>
+    <mpg>11</mpg>
+    <cylinders>8</cylinders>
+    <displacement>429</displacement>
+    <horsepower>208</horsepower>
+    <weight>4633</weight>
+    <acceleration>11</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>mercury marquis</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>76</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>155</horsepower>
+    <weight>4502</weight>
+    <acceleration>13.5</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>buick lesabre custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>77</ID>
+    <mpg>12</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>160</horsepower>
+    <weight>4456</weight>
+    <acceleration>13.5</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>oldsmobile delta 88 royale</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>78</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>190</horsepower>
+    <weight>4422</weight>
+    <acceleration>12.5</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>chrysler newport royal</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>79</ID>
+    <mpg>19</mpg>
+    <cylinders>3</cylinders>
+    <displacement>70</displacement>
+    <horsepower>97</horsepower>
+    <weight>2330</weight>
+    <acceleration>13.5</acceleration>
+    <model year>72</model year>
+    <origin>3</origin>
+    <car name>mazda rx2 coupe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>80</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>304</displacement>
+    <horsepower>150</horsepower>
+    <weight>3892</weight>
+    <acceleration>12.5</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>amc matador (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>81</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>307</displacement>
+    <horsepower>130</horsepower>
+    <weight>4098</weight>
+    <acceleration>14</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevelle concours (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>82</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>140</horsepower>
+    <weight>4294</weight>
+    <acceleration>16</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>ford gran torino (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>83</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>4077</weight>
+    <acceleration>14</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>plymouth satellite custom (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>84</ID>
+    <mpg>18</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>112</horsepower>
+    <weight>2933</weight>
+    <acceleration>14.5</acceleration>
+    <model year>72</model year>
+    <origin>2</origin>
+    <car name>volvo 145e (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>85</ID>
+    <mpg>22</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>76</horsepower>
+    <weight>2511</weight>
+    <acceleration>18</acceleration>
+    <model year>72</model year>
+    <origin>2</origin>
+    <car name>volkswagen 411 (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>86</ID>
+    <mpg>21</mpg>
+    <cylinders>4</cylinders>
+    <displacement>120</displacement>
+    <horsepower>87</horsepower>
+    <weight>2979</weight>
+    <acceleration>19.5</acceleration>
+    <model year>72</model year>
+    <origin>2</origin>
+    <car name>peugeot 504 (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>87</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>96</displacement>
+    <horsepower>69</horsepower>
+    <weight>2189</weight>
+    <acceleration>18</acceleration>
+    <model year>72</model year>
+    <origin>2</origin>
+    <car name>renault 12 (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>88</ID>
+    <mpg>22</mpg>
+    <cylinders>4</cylinders>
+    <displacement>122</displacement>
+    <horsepower>86</horsepower>
+    <weight>2395</weight>
+    <acceleration>16</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>ford pinto (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>89</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>92</horsepower>
+    <weight>2288</weight>
+    <acceleration>17</acceleration>
+    <model year>72</model year>
+    <origin>3</origin>
+    <car name>datsun 510 (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>90</ID>
+    <mpg>23</mpg>
+    <cylinders>4</cylinders>
+    <displacement>120</displacement>
+    <horsepower>97</horsepower>
+    <weight>2506</weight>
+    <acceleration>14.5</acceleration>
+    <model year>72</model year>
+    <origin>3</origin>
+    <car name>toyouta corona mark ii (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>91</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>80</horsepower>
+    <weight>2164</weight>
+    <acceleration>15</acceleration>
+    <model year>72</model year>
+    <origin>1</origin>
+    <car name>dodge colt (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>92</ID>
+    <mpg>27</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>88</horsepower>
+    <weight>2100</weight>
+    <acceleration>16.5</acceleration>
+    <model year>72</model year>
+    <origin>3</origin>
+    <car name>toyota corolla 1600 (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>93</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>175</horsepower>
+    <weight>-53</weight>
+    <acceleration>13</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>buick century 350</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>94</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>304</displacement>
+    <horsepower>150</horsepower>
+    <weight>3672</weight>
+    <acceleration>11.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>amc matador</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>95</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>145</horsepower>
+    <weight>3988</weight>
+    <acceleration>13</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>chevrolet malibu</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>96</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>137</horsepower>
+    <weight>4042</weight>
+    <acceleration>14.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>ford gran torino</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>97</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>3777</weight>
+    <acceleration>12.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>dodge coronet custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>98</ID>
+    <mpg>12</mpg>
+    <cylinders>8</cylinders>
+    <displacement>429</displacement>
+    <horsepower>198</horsepower>
+    <weight>4952</weight>
+    <acceleration>11.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>mercury marquis brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>99</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>150</horsepower>
+    <weight>4464</weight>
+    <acceleration>12</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>chevrolet caprice classic</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>100</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>351</displacement>
+    <horsepower>158</horsepower>
+    <weight>4363</weight>
+    <acceleration>13</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>ford ltd</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>101</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>4237</weight>
+    <acceleration>14.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>plymouth fury gran sedan</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>102</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>440</displacement>
+    <horsepower>215</horsepower>
+    <weight>4735</weight>
+    <acceleration>11</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>chrysler new yorker brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>103</ID>
+    <mpg>12</mpg>
+    <cylinders>8</cylinders>
+    <displacement>455</displacement>
+    <horsepower>225</horsepower>
+    <weight>4951</weight>
+    <acceleration>11</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>buick electra 225 custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>104</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>360</displacement>
+    <horsepower>175</horsepower>
+    <weight>3821</weight>
+    <acceleration>11</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>amc ambassador brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>105</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>105</horsepower>
+    <weight>3121</weight>
+    <acceleration>16.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>plymouth valiant</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>106</ID>
+    <mpg>16</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>100</horsepower>
+    <weight>3278</weight>
+    <acceleration>18</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>chevrolet nova custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>107</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>100</horsepower>
+    <weight>2945</weight>
+    <acceleration>16</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>amc hornet</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>108</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>88</horsepower>
+    <weight>3021</weight>
+    <acceleration>16.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>ford maverick</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>109</ID>
+    <mpg>23</mpg>
+    <cylinders>6</cylinders>
+    <displacement>198</displacement>
+    <horsepower>95</horsepower>
+    <weight>2904</weight>
+    <acceleration>16</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>plymouth duster</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>110</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>46</horsepower>
+    <weight>1950</weight>
+    <acceleration>21</acceleration>
+    <model year>73</model year>
+    <origin>2</origin>
+    <car name>volkswagen super beetle</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>111</ID>
+    <mpg>11</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>150</horsepower>
+    <weight>4997</weight>
+    <acceleration>14</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>chevrolet impala</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>112</ID>
+    <mpg>12</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>167</horsepower>
+    <weight>4906</weight>
+    <acceleration>12.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>ford country</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>113</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>360</displacement>
+    <horsepower>170</horsepower>
+    <weight>4654</weight>
+    <acceleration>13</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>plymouth custom suburb</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>114</ID>
+    <mpg>12</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>180</horsepower>
+    <weight>4499</weight>
+    <acceleration>12.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>oldsmobile vista cruiser</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>115</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>100</horsepower>
+    <weight>2789</weight>
+    <acceleration>15</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>amc gremlin</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>116</ID>
+    <mpg>20</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>88</horsepower>
+    <weight>2279</weight>
+    <acceleration>19</acceleration>
+    <model year>73</model year>
+    <origin>3</origin>
+    <car name>toyota carina</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>117</ID>
+    <mpg>21</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>72</horsepower>
+    <weight>2401</weight>
+    <acceleration>19.5</acceleration>
+    <model year>7</model year>
+    <origin>1</origin>
+    <car name>chevrolet vega</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>118</ID>
+    <mpg>22</mpg>
+    <cylinders>4</cylinders>
+    <displacement>108</displacement>
+    <horsepower>94</horsepower>
+    <weight>2379</weight>
+    <acceleration>16.5</acceleration>
+    <model year>73</model year>
+    <origin>3</origin>
+    <car name>datsun 610</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>119</ID>
+    <mpg>18</mpg>
+    <cylinders>3</cylinders>
+    <displacement>70</displacement>
+    <horsepower>90</horsepower>
+    <weight>2124</weight>
+    <acceleration>13.5</acceleration>
+    <model year>73</model year>
+    <origin>3</origin>
+    <car name>maxda rx3</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>120</ID>
+    <mpg>19</mpg>
+    <cylinders>4</cylinders>
+    <displacement>122</displacement>
+    <horsepower>85</horsepower>
+    <weight>2310</weight>
+    <acceleration>18.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>ford pinto</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>121</ID>
+    <mpg>21</mpg>
+    <cylinders>6</cylinders>
+    <displacement>155</displacement>
+    <horsepower>107</horsepower>
+    <weight>2472</weight>
+    <acceleration>14</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>mercury capri v6</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>122</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>90</horsepower>
+    <weight>2265</weight>
+    <acceleration>15.5</acceleration>
+    <model year>73</model year>
+    <origin>2</origin>
+    <car name>fiat 124 sport coupe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>123</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>145</horsepower>
+    <weight>4082</weight>
+    <acceleration>13</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>chevrolet monte carlo s</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>124</ID>
+    <mpg>16</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>230</horsepower>
+    <weight>4278</weight>
+    <acceleration>9.5</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>pontiac grand prix</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>125</ID>
+    <mpg>29</mpg>
+    <cylinders>4</cylinders>
+    <displacement>68</displacement>
+    <horsepower>49</horsepower>
+    <weight>1867</weight>
+    <acceleration>19.5</acceleration>
+    <model year>0</model year>
+    <origin>2</origin>
+    <car name>fiat 128</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>126</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>116</displacement>
+    <horsepower>75</horsepower>
+    <weight>2158</weight>
+    <acceleration>15.5</acceleration>
+    <model year>73</model year>
+    <origin>2</origin>
+    <car name>opel manta</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>127</ID>
+    <mpg>20</mpg>
+    <cylinders>4</cylinders>
+    <displacement>114</displacement>
+    <horsepower>91</horsepower>
+    <weight>2582</weight>
+    <acceleration>14</acceleration>
+    <model year>73</model year>
+    <origin>2</origin>
+    <car name>audi 100ls</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>128</ID>
+    <mpg>19</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>112</horsepower>
+    <weight>2868</weight>
+    <acceleration>15.5</acceleration>
+    <model year>73</model year>
+    <origin>2</origin>
+    <car name>volvo 144ea</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>129</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>3399</weight>
+    <acceleration>11</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>dodge dart custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>130</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>110</horsepower>
+    <weight>2660</weight>
+    <acceleration>14</acceleration>
+    <model year>73</model year>
+    <origin>2</origin>
+    <car name>saab 99le</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>131</ID>
+    <mpg>20</mpg>
+    <cylinders>6</cylinders>
+    <displacement>156</displacement>
+    <horsepower>122</horsepower>
+    <weight>2807</weight>
+    <acceleration>13.5</acceleration>
+    <model year>73</model year>
+    <origin>3</origin>
+    <car name>toyota mark ii</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>132</ID>
+    <mpg>11</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>180</horsepower>
+    <weight>3664</weight>
+    <acceleration>11</acceleration>
+    <model year>73</model year>
+    <origin>1</origin>
+    <car name>oldsmobile omega</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>133</ID>
+    <mpg>20</mpg>
+    <cylinders>6</cylinders>
+    <displacement>198</displacement>
+    <horsepower>95</horsepower>
+    <weight>3102</weight>
+    <acceleration>16.5</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>plymouth duster</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>134</ID>
+    <mpg>21</mpg>
+    <cylinders>6</cylinders>
+    <displacement>200</displacement>
+    <horsepower>NA</horsepower>
+    <weight>2875</weight>
+    <acceleration>17</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>ford maverick</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>135</ID>
+    <mpg>19</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>100</horsepower>
+    <weight>2901</weight>
+    <acceleration>16</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>amc hornet</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>136</ID>
+    <mpg>15</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>100</horsepower>
+    <weight>3336</weight>
+    <acceleration>17</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>chevrolet nova</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>137</ID>
+    <mpg>31</mpg>
+    <cylinders>4</cylinders>
+    <displacement>79</displacement>
+    <horsepower>67</horsepower>
+    <weight>1950</weight>
+    <acceleration> </acceleration>
+    <model year>74</model year>
+    <origin>3</origin>
+    <car name>datsun b210</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>138</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>122</displacement>
+    <horsepower>80</horsepower>
+    <weight>2451</weight>
+    <acceleration>16.5</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>ford pinto</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>139</ID>
+    <mpg>32</mpg>
+    <cylinders>4</cylinders>
+    <displacement>71</displacement>
+    <horsepower>65</horsepower>
+    <weight>1836</weight>
+    <acceleration>21</acceleration>
+    <model year>74</model year>
+    <origin>3</origin>
+    <car name>toyota corolla 1200</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>140</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>75</horsepower>
+    <weight>2542</weight>
+    <acceleration>17</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>chevrolet vega</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>141</ID>
+    <mpg>16</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>100</horsepower>
+    <weight>3781</weight>
+    <acceleration>17</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevelle malibu classic</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>142</ID>
+    <mpg>16</mpg>
+    <cylinders>6</cylinders>
+    <displacement>258</displacement>
+    <horsepower>110</horsepower>
+    <weight>3632</weight>
+    <acceleration>18</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>amc matador</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>143</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>105</horsepower>
+    <weight>3613</weight>
+    <acceleration>16.5</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>plymouth satellite sebring</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>144</ID>
+    <mpg>16</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>140</horsepower>
+    <weight>4141</weight>
+    <acceleration>14</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>ford gran torino</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>145</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>150</horsepower>
+    <weight>4699</weight>
+    <acceleration>14.5</acceleration>
+    <model year> -</model year>
+    <origin>1</origin>
+    <car name>buick century luxus (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>146</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>4457</weight>
+    <acceleration>13.5</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>dodge coronet custom (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>147</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>140</horsepower>
+    <weight>4638</weight>
+    <acceleration>16</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>ford gran torino (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>148</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>304</displacement>
+    <horsepower>150</horsepower>
+    <weight>4257</weight>
+    <acceleration>15.5</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>amc matador (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>149</ID>
+    <mpg>29</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>83</horsepower>
+    <weight>2219</weight>
+    <acceleration>16.5</acceleration>
+    <model year>74</model year>
+    <origin>2</origin>
+    <car name>audi fox</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>150</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>79</displacement>
+    <horsepower>67</horsepower>
+    <weight>1963</weight>
+    <acceleration>15.5</acceleration>
+    <model year>74</model year>
+    <origin>2</origin>
+    <car name>volkswagen dasher</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>151</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>78</horsepower>
+    <weight>2300</weight>
+    <acceleration>14.5</acceleration>
+    <model year>74</model year>
+    <origin>2</origin>
+    <car name>opel manta</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>152</ID>
+    <mpg>31</mpg>
+    <cylinders>4</cylinders>
+    <displacement>76</displacement>
+    <horsepower>52</horsepower>
+    <weight>1649</weight>
+    <acceleration>16.5</acceleration>
+    <model year>74</model year>
+    <origin>3</origin>
+    <car name>toyota corona</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>153</ID>
+    <mpg>32</mpg>
+    <cylinders>4</cylinders>
+    <displacement>83</displacement>
+    <horsepower>61</horsepower>
+    <weight>2003</weight>
+    <acceleration>19</acceleration>
+    <model year>74</model year>
+    <origin>3</origin>
+    <car name>datsun 710</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>154</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>90</displacement>
+    <horsepower>75</horsepower>
+    <weight>2125</weight>
+    <acceleration>14.5</acceleration>
+    <model year>74</model year>
+    <origin>1</origin>
+    <car name>dodge colt</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>155</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>90</displacement>
+    <horsepower>75</horsepower>
+    <weight>2108</weight>
+    <acceleration>15.5</acceleration>
+    <model year>74</model year>
+    <origin>2</origin>
+    <car name>fiat 128</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>156</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>116</displacement>
+    <horsepower>75</horsepower>
+    <weight>2246</weight>
+    <acceleration>14</acceleration>
+    <model year>74</model year>
+    <origin>2</origin>
+    <car name>fiat 124 tc</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>157</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>120</displacement>
+    <horsepower>97</horsepower>
+    <weight>2489</weight>
+    <acceleration>15</acceleration>
+    <model year>74</model year>
+    <origin>3</origin>
+    <car name>honda civic</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>158</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>108</displacement>
+    <horsepower>93</horsepower>
+    <weight>2391</weight>
+    <acceleration>15.5</acceleration>
+    <model year>74</model year>
+    <origin>3</origin>
+    <car name>subaru</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>159</ID>
+    <mpg>31</mpg>
+    <cylinders>4</cylinders>
+    <displacement>79</displacement>
+    <horsepower>67</horsepower>
+    <weight>2000</weight>
+    <acceleration>16</acceleration>
+    <model year>74</model year>
+    <origin>2</origin>
+    <car name>fiat x1.9</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>160</ID>
+    <mpg>19</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>95</horsepower>
+    <weight>3264</weight>
+    <acceleration>16</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>plymouth valiant custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>161</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>105</horsepower>
+    <weight>3459</weight>
+    <acceleration>16</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>chevrolet nova</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>162</ID>
+    <mpg>15</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>72</horsepower>
+    <weight>3432</weight>
+    <acceleration>21</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>mercury monarch</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>163</ID>
+    <mpg>15</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>72</horsepower>
+    <weight>3158</weight>
+    <acceleration>19.5</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>ford maverick</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>164</ID>
+    <mpg>16</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>170</horsepower>
+    <weight>4668</weight>
+    <acceleration>11.5</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>pontiac catalina</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>165</ID>
+    <mpg>15</mpg>
+    <cylinders>0</cylinders>
+    <displacement>350</displacement>
+    <horsepower>145</horsepower>
+    <weight>4440</weight>
+    <acceleration>14</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>chevrolet bel air</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>166</ID>
+    <mpg>16</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>4498</weight>
+    <acceleration>14.5</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>plymouth grand fury</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>167</ID>
+    <mpg>14</mpg>
+    <cylinders>8</cylinders>
+    <displacement>351</displacement>
+    <horsepower>148</horsepower>
+    <weight>4657</weight>
+    <acceleration>13.5</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>ford ltd</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>168</ID>
+    <mpg>17</mpg>
+    <cylinders>6</cylinders>
+    <displacement>231</displacement>
+    <horsepower>110</horsepower>
+    <weight>3907</weight>
+    <acceleration>21</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>buick century</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>169</ID>
+    <mpg>16</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>105</horsepower>
+    <weight>3897</weight>
+    <acceleration>18.5</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>chevroelt chevelle malibu</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>170</ID>
+    <mpg>15</mpg>
+    <cylinders>6</cylinders>
+    <displacement>258</displacement>
+    <horsepower>110</horsepower>
+    <weight>3730</weight>
+    <acceleration>19</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>amc matador</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>171</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>95</horsepower>
+    <weight>3785</weight>
+    <acceleration>19</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>plymouth fury</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>172</ID>
+    <mpg>21</mpg>
+    <cylinders>6</cylinders>
+    <displacement>231</displacement>
+    <horsepower>110</horsepower>
+    <weight>3039</weight>
+    <acceleration>15</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>buick skyhawk</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>173</ID>
+    <mpg>20</mpg>
+    <cylinders>8</cylinders>
+    <displacement>262</displacement>
+    <horsepower>110</horsepower>
+    <weight>3221</weight>
+    <acceleration>13.5</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>chevrolet monza 2+2</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>174</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>129</horsepower>
+    <weight>3169</weight>
+    <acceleration>12</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>ford mustang ii</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>175</ID>
+    <mpg>29</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>75</horsepower>
+    <weight>2171</weight>
+    <acceleration>16</acceleration>
+    <model year>75</model year>
+    <origin>3</origin>
+    <car name>toyota corolla</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>176</ID>
+    <mpg>23</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>83</horsepower>
+    <weight>2639</weight>
+    <acceleration>17</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>ford pinto</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>177</ID>
+    <mpg>20</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>100</horsepower>
+    <weight>2914</weight>
+    <acceleration>16</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>amc gremlin</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>178</ID>
+    <mpg>23</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>78</horsepower>
+    <weight>2592</weight>
+    <acceleration>18.5</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>pontiac astro</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>179</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>134</displacement>
+    <horsepower>96</horsepower>
+    <weight>2702</weight>
+    <acceleration>13.5</acceleration>
+    <model year>75</model year>
+    <origin>3</origin>
+    <car name>toyota corona</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>180</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>90</displacement>
+    <horsepower>71</horsepower>
+    <weight>2223</weight>
+    <acceleration>16.5</acceleration>
+    <model year>75</model year>
+    <origin>2</origin>
+    <car name>volkswagen dasher</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>181</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>119</displacement>
+    <horsepower>97</horsepower>
+    <weight>2545</weight>
+    <acceleration>17</acceleration>
+    <model year>75</model year>
+    <origin>3</origin>
+    <car name>datsun 710</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>182</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>171</displacement>
+    <horsepower>97</horsepower>
+    <weight>2984</weight>
+    <acceleration>14.5</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>ford pinto</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>183</ID>
+    <mpg>29</mpg>
+    <cylinders>4</cylinders>
+    <displacement>90</displacement>
+    <horsepower> </horsepower>
+    <weight>1937</weight>
+    <acceleration>14</acceleration>
+    <model year>75</model year>
+    <origin>2</origin>
+    <car name>volkswagen rabbit</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>184</ID>
+    <mpg>19</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>90</horsepower>
+    <weight>3211</weight>
+    <acceleration>17</acceleration>
+    <model year>75</model year>
+    <origin>1</origin>
+    <car name>amc pacer</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>185</ID>
+    <mpg>23</mpg>
+    <cylinders>4</cylinders>
+    <displacement>115</displacement>
+    <horsepower>95</horsepower>
+    <weight>2694</weight>
+    <acceleration>15</acceleration>
+    <model year>75</model year>
+    <origin>2</origin>
+    <car name>audi 100ls</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>186</ID>
+    <mpg>23</mpg>
+    <cylinders>4</cylinders>
+    <displacement>120</displacement>
+    <horsepower>88</horsepower>
+    <weight>2957</weight>
+    <acceleration>17</acceleration>
+    <model year>75</model year>
+    <origin>2</origin>
+    <car name>peugeot 504</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>187</ID>
+    <mpg>22</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>98</horsepower>
+    <weight>2945</weight>
+    <acceleration>14.5</acceleration>
+    <model year>75</model year>
+    <origin>2</origin>
+    <car name>volvo 244dl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>188</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>115</horsepower>
+    <weight>2671</weight>
+    <acceleration>13.5</acceleration>
+    <model year>75</model year>
+    <origin>2</origin>
+    <car name>saab 99le</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>189</ID>
+    <mpg>33</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>53</horsepower>
+    <weight>1795</weight>
+    <acceleration>17.5</acceleration>
+    <model year>75</model year>
+    <origin>3</origin>
+    <car name>honda civic cvcc</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>190</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>107</displacement>
+    <horsepower>86</horsepower>
+    <weight>2464</weight>
+    <acceleration>15.5</acceleration>
+    <model year>76</model year>
+    <origin>2</origin>
+    <car name>fiat 131</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>191</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>116</displacement>
+    <horsepower>81</horsepower>
+    <weight>2220</weight>
+    <acceleration>16.9</acceleration>
+    <model year>76</model year>
+    <origin>2</origin>
+    <car name>opel 1900</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>192</ID>
+    <mpg>25</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>92</horsepower>
+    <weight>2572</weight>
+    <acceleration>14.9</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>capri ii</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>193</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>79</horsepower>
+    <weight>2255</weight>
+    <acceleration>17.7</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>dodge colt</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>194</ID>
+    <mpg>27</mpg>
+    <cylinders>4</cylinders>
+    <displacement>101</displacement>
+    <horsepower>83</horsepower>
+    <weight>2202</weight>
+    <acceleration>15.3</acceleration>
+    <model year>76</model year>
+    <origin>2</origin>
+    <car name>renault 12tl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>195</ID>
+    <mpg>17.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>305</displacement>
+    <horsepower>140</horsepower>
+    <weight>4215</weight>
+    <acceleration>13</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevelle malibu classic</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>196</ID>
+    <mpg>16</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>4190</weight>
+    <acceleration>13</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>dodge coronet brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>197</ID>
+    <mpg>15.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>304</displacement>
+    <horsepower>120</horsepower>
+    <weight>3962</weight>
+    <acceleration>13.9</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>amc matador</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>198</ID>
+    <mpg>14.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>351</displacement>
+    <horsepower>152</horsepower>
+    <weight>4215</weight>
+    <acceleration>12.8</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>ford gran torino</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>199</ID>
+    <mpg>22</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>100</horsepower>
+    <weight>3233</weight>
+    <acceleration>15.4</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>plymouth valiant</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>200</ID>
+    <mpg>22</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>105</horsepower>
+    <weight>3353</weight>
+    <acceleration>14.5</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>chevrolet nova</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>201</ID>
+    <mpg>24</mpg>
+    <cylinders>6</cylinders>
+    <displacement>200</displacement>
+    <horsepower>81</horsepower>
+    <weight>3012</weight>
+    <acceleration>17.6</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>ford maverick</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>202</ID>
+    <mpg>22.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>90</horsepower>
+    <weight>3085</weight>
+    <acceleration>17.6</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>amc hornet</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>203</ID>
+    <mpg>29</mpg>
+    <cylinders>4</cylinders>
+    <displacement>85</displacement>
+    <horsepower>52</horsepower>
+    <weight>2035</weight>
+    <acceleration>22.2</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevette</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>204</ID>
+    <mpg>24.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>60</horsepower>
+    <weight>2164</weight>
+    <acceleration>22.1</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>chevrolet woody</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>205</ID>
+    <mpg>29</mpg>
+    <cylinders>4</cylinders>
+    <displacement>90</displacement>
+    <horsepower>70</horsepower>
+    <weight>1937</weight>
+    <acceleration>14.2</acceleration>
+    <model year>76</model year>
+    <origin>2</origin>
+    <car name>vw rabbit</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>206</ID>
+    <mpg>33</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>53</horsepower>
+    <weight>1795</weight>
+    <acceleration>17.4</acceleration>
+    <model year>76</model year>
+    <origin>3</origin>
+    <car name>honda civic</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>207</ID>
+    <mpg>20</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>100</horsepower>
+    <weight>3651</weight>
+    <acceleration>17.7</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>dodge aspen se</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>208</ID>
+    <mpg>18</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>78</horsepower>
+    <weight>3574</weight>
+    <acceleration>21</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>ford granada ghia</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>209</ID>
+    <mpg>18.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>110</horsepower>
+    <weight>3645</weight>
+    <acceleration>16.2</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>pontiac ventura sj</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>210</ID>
+    <mpg>17.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>258</displacement>
+    <horsepower>95</horsepower>
+    <weight>3193</weight>
+    <acceleration>17.8</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>amc pacer d/l</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>211</ID>
+    <mpg>29.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>71</horsepower>
+    <weight>1825</weight>
+    <acceleration>12.2</acceleration>
+    <model year>76</model year>
+    <origin>2</origin>
+    <car name>volkswagen rabbit</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>212</ID>
+    <mpg>32</mpg>
+    <cylinders>4</cylinders>
+    <displacement>85</displacement>
+    <horsepower>70</horsepower>
+    <weight>1990</weight>
+    <acceleration>17</acceleration>
+    <model year>76</model year>
+    <origin>3</origin>
+    <car name>datsun b-210</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>213</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>75</horsepower>
+    <weight>2155</weight>
+    <acceleration>16.4</acceleration>
+    <model year>76</model year>
+    <origin>3</origin>
+    <car name>toyota corolla</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>214</ID>
+    <mpg>26.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>72</horsepower>
+    <weight>2565</weight>
+    <acceleration>13.6</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>ford pinto</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>215</ID>
+    <mpg>20</mpg>
+    <cylinders>4</cylinders>
+    <displacement>130</displacement>
+    <horsepower>102</horsepower>
+    <weight>3150</weight>
+    <acceleration>15.7</acceleration>
+    <model year>76</model year>
+    <origin>2</origin>
+    <car name>volvo 245</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>216</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>3940</weight>
+    <acceleration>13.2</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>plymouth volare premier v8</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>217</ID>
+    <mpg>19</mpg>
+    <cylinders>4</cylinders>
+    <displacement>120</displacement>
+    <horsepower>88</horsepower>
+    <weight>3270</weight>
+    <acceleration>21.9</acceleration>
+    <model year>76</model year>
+    <origin>2</origin>
+    <car name>peugeot 504</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>218</ID>
+    <mpg>19</mpg>
+    <cylinders>6</cylinders>
+    <displacement>156</displacement>
+    <horsepower>108</horsepower>
+    <weight>2930</weight>
+    <acceleration>15.5</acceleration>
+    <model year>76</model year>
+    <origin>3</origin>
+    <car name>toyota mark ii</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>219</ID>
+    <mpg>16.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>168</displacement>
+    <horsepower>120</horsepower>
+    <weight>3820</weight>
+    <acceleration>16.7</acceleration>
+    <model year>76</model year>
+    <origin>2</origin>
+    <car name>mercedes-benz 280s</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>220</ID>
+    <mpg>16.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>180</horsepower>
+    <weight>4380</weight>
+    <acceleration>12.1</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>cadillac seville</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>221</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>145</horsepower>
+    <weight>4055</weight>
+    <acceleration>12</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>chevy c10</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>222</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>130</horsepower>
+    <weight>3870</weight>
+    <acceleration>15</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>ford f108</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>223</ID>
+    <mpg>13</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>150</horsepower>
+    <weight>3755</weight>
+    <acceleration>14</acceleration>
+    <model year>76</model year>
+    <origin>1</origin>
+    <car name>dodge d100</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>224</ID>
+    <mpg>31.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>68</horsepower>
+    <weight> </weight>
+    <acceleration>18.5</acceleration>
+    <model year>77</model year>
+    <origin>3</origin>
+    <car name>honda accord cvcc</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>225</ID>
+    <mpg>30</mpg>
+    <cylinders>4</cylinders>
+    <displacement>111</displacement>
+    <horsepower>80</horsepower>
+    <weight>2155</weight>
+    <acceleration>14.8</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>buick opel isuzu deluxe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>226</ID>
+    <mpg>36</mpg>
+    <cylinders>4</cylinders>
+    <displacement>79</displacement>
+    <horsepower>58</horsepower>
+    <weight>1825</weight>
+    <acceleration>18.6</acceleration>
+    <model year>77</model year>
+    <origin>2</origin>
+    <car name>renault 5 gtl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>227</ID>
+    <mpg>25.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>122</displacement>
+    <horsepower>96</horsepower>
+    <weight>2300</weight>
+    <acceleration>15.5</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>plymouth arrow gs</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>228</ID>
+    <mpg>33.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>85</displacement>
+    <horsepower>70</horsepower>
+    <weight>1945</weight>
+    <acceleration>16.8</acceleration>
+    <model year>77</model year>
+    <origin>3</origin>
+    <car name>datsun f-10 hatchback</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>229</ID>
+    <mpg>17.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>305</displacement>
+    <horsepower>145</horsepower>
+    <weight>3880</weight>
+    <acceleration>12.5</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>chevrolet caprice classic</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>230</ID>
+    <mpg>17</mpg>
+    <cylinders>8</cylinders>
+    <displacement>260</displacement>
+    <horsepower>110</horsepower>
+    <weight>4060</weight>
+    <acceleration>19</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>oldsmobile cutlass supreme</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>231</ID>
+    <mpg>15.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>145</horsepower>
+    <weight>4140</weight>
+    <acceleration>13.7</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>dodge monaco brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>232</ID>
+    <mpg>15</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>130</horsepower>
+    <weight>4295</weight>
+    <acceleration>14.9</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>mercury cougar brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>233</ID>
+    <mpg>17.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>110</horsepower>
+    <weight>3520</weight>
+    <acceleration>16.4</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>chevrolet concours</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>234</ID>
+    <mpg>20.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>231</displacement>
+    <horsepower>105</horsepower>
+    <weight>3425</weight>
+    <acceleration>16.9</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>buick skylark</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>235</ID>
+    <mpg>19</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>100</horsepower>
+    <weight>3630</weight>
+    <acceleration>17.7</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>plymouth volare custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>236</ID>
+    <mpg>18.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>250</displacement>
+    <horsepower>98</horsepower>
+    <weight>3525</weight>
+    <acceleration>19</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>ford granada</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>237</ID>
+    <mpg>16</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>180</horsepower>
+    <weight>4220</weight>
+    <acceleration>11.1</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>pontiac grand prix lj</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>238</ID>
+    <mpg>15.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>170</horsepower>
+    <weight>4165</weight>
+    <acceleration>11.4</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>chevrolet monte carlo landau</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>239</ID>
+    <mpg>15.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>400</displacement>
+    <horsepower>190</horsepower>
+    <weight>4325</weight>
+    <acceleration>12.2</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>chrysler cordoba</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>240</ID>
+    <mpg>16</mpg>
+    <cylinders>8</cylinders>
+    <displacement>351</displacement>
+    <horsepower>149</horsepower>
+    <weight>4335</weight>
+    <acceleration>14.5</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>ford thunderbird</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>241</ID>
+    <mpg>29</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>78</horsepower>
+    <weight>1940</weight>
+    <acceleration>14.5</acceleration>
+    <model year>77</model year>
+    <origin>2</origin>
+    <car name>volkswagen rabbit custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>242</ID>
+    <mpg>24.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>88</horsepower>
+    <weight>2740</weight>
+    <acceleration>16</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>pontiac sunbird coupe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>243</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>75</horsepower>
+    <weight>2265</weight>
+    <acceleration>18.2</acceleration>
+    <model year>77</model year>
+    <origin>3</origin>
+    <car name>toyota corolla liftback</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>244</ID>
+    <mpg>25.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>89</horsepower>
+    <weight>2755</weight>
+    <acceleration>15.8</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>ford mustang ii 2+2</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>245</ID>
+    <mpg>30.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>63</horsepower>
+    <weight>2051</weight>
+    <acceleration>17</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevette</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>246</ID>
+    <mpg>33.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>83</horsepower>
+    <weight>2075</weight>
+    <acceleration>15.9</acceleration>
+    <model year>77</model year>
+    <origin>1</origin>
+    <car name>dodge colt m/m</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>247</ID>
+    <mpg>30</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>67</horsepower>
+    <weight>1985</weight>
+    <acceleration>16.4</acceleration>
+    <model year>77</model year>
+    <origin>3</origin>
+    <car name>subaru dl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>248</ID>
+    <mpg>30.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>78</horsepower>
+    <weight>2190</weight>
+    <acceleration>14.1</acceleration>
+    <model year>77</model year>
+    <origin>2</origin>
+    <car name>volkswagen dasher</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>249</ID>
+    <mpg>22</mpg>
+    <cylinders>6</cylinders>
+    <displacement>146</displacement>
+    <horsepower>97</horsepower>
+    <weight>2815</weight>
+    <acceleration>14.5</acceleration>
+    <model year>77</model year>
+    <origin>3</origin>
+    <car name>datsun 810</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>250</ID>
+    <mpg>21.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>110</horsepower>
+    <weight>2600</weight>
+    <acceleration>12.8</acceleration>
+    <model year>77</model year>
+    <origin>2</origin>
+    <car name>bmw 320i</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>251</ID>
+    <mpg>21.5</mpg>
+    <cylinders>3</cylinders>
+    <displacement>80</displacement>
+    <horsepower>110</horsepower>
+    <weight>2720</weight>
+    <acceleration>13.5</acceleration>
+    <model year>77</model year>
+    <origin>3</origin>
+    <car name>mazda rx-4</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>252</ID>
+    <mpg>43.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>90</displacement>
+    <horsepower>48</horsepower>
+    <weight>1985</weight>
+    <acceleration>21.5</acceleration>
+    <model year>78</model year>
+    <origin>2</origin>
+    <car name>volkswagen rabbit custom diesel</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>253</ID>
+    <mpg>36.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>66</horsepower>
+    <weight>1800</weight>
+    <acceleration>14.4</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>ford fiesta</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>254</ID>
+    <mpg>32.8</mpg>
+    <cylinders>4</cylinders>
+    <displacement>78</displacement>
+    <horsepower>52</horsepower>
+    <weight>1985</weight>
+    <acceleration>19.4</acceleration>
+    <model year>78</model year>
+    <origin>3</origin>
+    <car name>mazda glc deluxe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>255</ID>
+    <mpg>39.4</mpg>
+    <cylinders>4</cylinders>
+    <displacement>85</displacement>
+    <horsepower>70</horsepower>
+    <weight>2070</weight>
+    <acceleration>18.6</acceleration>
+    <model year>78</model year>
+    <origin>3</origin>
+    <car name>datsun b210 gx</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>256</ID>
+    <mpg>36.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>60</horsepower>
+    <weight>1800</weight>
+    <acceleration>16.4</acceleration>
+    <model year>78</model year>
+    <origin>3</origin>
+    <car name>honda civic cvcc</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>257</ID>
+    <mpg>19.9</mpg>
+    <cylinders>8</cylinders>
+    <displacement>260</displacement>
+    <horsepower>110</horsepower>
+    <weight>3365</weight>
+    <acceleration>15.5</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>oldsmobile cutlass salon brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>258</ID>
+    <mpg>19.4</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>140</horsepower>
+    <weight>3735</weight>
+    <acceleration>13.2</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>dodge diplomat</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>259</ID>
+    <mpg>20.2</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>139</horsepower>
+    <weight>3570</weight>
+    <acceleration>12.8</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>mercury monarch ghia</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>260</ID>
+    <mpg>19.2</mpg>
+    <cylinders>6</cylinders>
+    <displacement>231</displacement>
+    <horsepower>105</horsepower>
+    <weight>3535</weight>
+    <acceleration>19.2</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>pontiac phoenix lj</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>261</ID>
+    <mpg>20.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>200</displacement>
+    <horsepower>95</horsepower>
+    <weight>3155</weight>
+    <acceleration>18.2</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>chevrolet malibu</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>262</ID>
+    <mpg>20.2</mpg>
+    <cylinders>6</cylinders>
+    <displacement>200</displacement>
+    <horsepower>85</horsepower>
+    <weight>2965</weight>
+    <acceleration>15.8</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>ford fairmont (auto)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>263</ID>
+    <mpg>25.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>88</horsepower>
+    <weight>2720</weight>
+    <acceleration>15.4</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>ford fairmont (man)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>264</ID>
+    <mpg>20.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>100</horsepower>
+    <weight>3430</weight>
+    <acceleration>17.2</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>plymouth volare</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>265</ID>
+    <mpg>19.4</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>90</horsepower>
+    <weight>3210</weight>
+    <acceleration>17.2</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>amc concord</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>266</ID>
+    <mpg>20.6</mpg>
+    <cylinders>6</cylinders>
+    <displacement>231</displacement>
+    <horsepower>105</horsepower>
+    <weight>3380</weight>
+    <acceleration>15.8</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>buick century special</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>267</ID>
+    <mpg>20.8</mpg>
+    <cylinders>6</cylinders>
+    <displacement>200</displacement>
+    <horsepower>85</horsepower>
+    <weight>3070</weight>
+    <acceleration> </acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>mercury zephyr</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>268</ID>
+    <mpg>18.6</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>110</horsepower>
+    <weight>3620</weight>
+    <acceleration>18.7</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>dodge aspen</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>269</ID>
+    <mpg>18.1</mpg>
+    <cylinders>6</cylinders>
+    <displacement>258</displacement>
+    <horsepower>120</horsepower>
+    <weight>3410</weight>
+    <acceleration>15.1</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>amc concord d/l</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>270</ID>
+    <mpg>19.2</mpg>
+    <cylinders>8</cylinders>
+    <displacement>305</displacement>
+    <horsepower>145</horsepower>
+    <weight>3425</weight>
+    <acceleration>13.2</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>chevrolet monte carlo landau</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>271</ID>
+    <mpg>17.7</mpg>
+    <cylinders>6</cylinders>
+    <displacement>231</displacement>
+    <horsepower>165</horsepower>
+    <weight>3445</weight>
+    <acceleration>13.4</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>buick regal sport coupe (turbo)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>272</ID>
+    <mpg>18.1</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>139</horsepower>
+    <weight>3205</weight>
+    <acceleration>11.2</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>ford futura</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>273</ID>
+    <mpg>17.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>140</horsepower>
+    <weight>40.8</weight>
+    <acceleration>13.7</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>dodge magnum xe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>274</ID>
+    <mpg>30</mpg>
+    <cylinders>4.5</cylinders>
+    <displacement>98</displacement>
+    <horsepower>68</horsepower>
+    <weight>2155</weight>
+    <acceleration>16.5</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevette</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>275</ID>
+    <mpg>27.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>134</displacement>
+    <horsepower>95</horsepower>
+    <weight>2560</weight>
+    <acceleration>14.2</acceleration>
+    <model year>78</model year>
+    <origin>3</origin>
+    <car name>toyota corona</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>276</ID>
+    <mpg>27.2</mpg>
+    <cylinders>4</cylinders>
+    <displacement>119</displacement>
+    <horsepower>97</horsepower>
+    <weight>2300</weight>
+    <acceleration>14.7</acceleration>
+    <model year>78</model year>
+    <origin>3</origin>
+    <car name>datsun 510</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>277</ID>
+    <mpg>30.9</mpg>
+    <cylinders>4</cylinders>
+    <displacement>105</displacement>
+    <horsepower>75</horsepower>
+    <weight>2230</weight>
+    <acceleration>14.5</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>dodge omni</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>278</ID>
+    <mpg>21.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>134</displacement>
+    <horsepower>95</horsepower>
+    <weight>2515</weight>
+    <acceleration>14.8</acceleration>
+    <model year>78</model year>
+    <origin>3</origin>
+    <car name>toyota celica gt liftback</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>279</ID>
+    <mpg>23.2</mpg>
+    <cylinders>4</cylinders>
+    <displacement>156</displacement>
+    <horsepower>105</horsepower>
+    <weight>2745</weight>
+    <acceleration>16.7</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>plymouth sapporo</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>280</ID>
+    <mpg>23.8</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>85</horsepower>
+    <weight>2855</weight>
+    <acceleration>17.6</acceleration>
+    <model year>78</model year>
+    <origin>1</origin>
+    <car name>oldsmobile starfire sx</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>281</ID>
+    <mpg>23.9</mpg>
+    <cylinders>4</cylinders>
+    <displacement>119</displacement>
+    <horsepower>97</horsepower>
+    <weight>2405</weight>
+    <acceleration>14.9</acceleration>
+    <model year>78</model year>
+    <origin>3</origin>
+    <car name>datsun 200-sx</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>282</ID>
+    <mpg>20.3</mpg>
+    <cylinders>5</cylinders>
+    <displacement>131</displacement>
+    <horsepower>103</horsepower>
+    <weight>2830</weight>
+    <acceleration>15.9</acceleration>
+    <model year>78</model year>
+    <origin>2</origin>
+    <car name>audi 5000</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>283</ID>
+    <mpg>17</mpg>
+    <cylinders>6</cylinders>
+    <displacement>163</displacement>
+    <horsepower>125</horsepower>
+    <weight>3140</weight>
+    <acceleration>13.6</acceleration>
+    <model year>78</model year>
+    <origin>2</origin>
+    <car name>volvo 264gl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>284</ID>
+    <mpg>21.6</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>115</horsepower>
+    <weight>2795</weight>
+    <acceleration>15.7</acceleration>
+    <model year>78</model year>
+    <origin>2</origin>
+    <car name>saab 99gle</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>285</ID>
+    <mpg>16.2</mpg>
+    <cylinders>6</cylinders>
+    <displacement>163</displacement>
+    <horsepower> </horsepower>
+    <weight>3410</weight>
+    <acceleration>15.8</acceleration>
+    <model year>78</model year>
+    <origin>2</origin>
+    <car name>peugeot 604sl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>286</ID>
+    <mpg>31.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>89</displacement>
+    <horsepower>71</horsepower>
+    <weight>1990</weight>
+    <acceleration>14.9</acceleration>
+    <model year>78</model year>
+    <origin>2</origin>
+    <car name>volkswagen scirocco</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>287</ID>
+    <mpg>29.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>68</horsepower>
+    <weight>2135</weight>
+    <acceleration>16.6</acceleration>
+    <model year>78</model year>
+    <origin>3</origin>
+    <car name>honda accord lx</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>288</ID>
+    <mpg>21.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>231</displacement>
+    <horsepower>115</horsepower>
+    <weight>3245</weight>
+    <acceleration>15.4</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>pontiac lemans v6</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>289</ID>
+    <mpg>19.8</mpg>
+    <cylinders>6</cylinders>
+    <displacement>200</displacement>
+    <horsepower>85</horsepower>
+    <weight>2990</weight>
+    <acceleration>18.2</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>mercury zephyr 6</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>290</ID>
+    <mpg>22.3</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>88</horsepower>
+    <weight>2890</weight>
+    <acceleration>17.3</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>ford fairmont 4</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>291</ID>
+    <mpg>20.2</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>90</horsepower>
+    <weight>3265</weight>
+    <acceleration>1.2</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>amc concord dl 6</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>292</ID>
+    <mpg>20.6</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>110</horsepower>
+    <weight>3360</weight>
+    <acceleration>16.6</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>dodge aspen 6</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>293</ID>
+    <mpg>17</mpg>
+    <cylinders>8</cylinders>
+    <displacement>305</displacement>
+    <horsepower>130</horsepower>
+    <weight>3840</weight>
+    <acceleration>15.4</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>chevrolet caprice classic</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>294</ID>
+    <mpg>17.6</mpg>
+    <cylinders>8</cylinders>
+    <displacement>302</displacement>
+    <horsepower>129</horsepower>
+    <weight>3725</weight>
+    <acceleration>13.4</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>ford ltd landau</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>295</ID>
+    <mpg>16.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>351</displacement>
+    <horsepower>138</horsepower>
+    <weight>3955</weight>
+    <acceleration>13.2</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>mercury grand marquis</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>296</ID>
+    <mpg>18.2</mpg>
+    <cylinders>8</cylinders>
+    <displacement>318</displacement>
+    <horsepower>135</horsepower>
+    <weight>3830</weight>
+    <acceleration>15.2</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>dodge st. regis</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>297</ID>
+    <mpg>16.9</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>155</horsepower>
+    <weight>4360</weight>
+    <acceleration>14.9</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>buick estate wagon (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>298</ID>
+    <mpg>15.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>351</displacement>
+    <horsepower>142</horsepower>
+    <weight>4054</weight>
+    <acceleration>14.3</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>ford country squire (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>299</ID>
+    <mpg>19.2</mpg>
+    <cylinders>8</cylinders>
+    <displacement>267</displacement>
+    <horsepower>125</horsepower>
+    <weight>3605</weight>
+    <acceleration>15</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>chevrolet malibu classic (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>300</ID>
+    <mpg>18.5</mpg>
+    <cylinders>8</cylinders>
+    <displacement>360</displacement>
+    <horsepower>150</horsepower>
+    <weight>3940</weight>
+    <acceleration>13</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>chrysler lebaron town @ country (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>301</ID>
+    <mpg>31.9</mpg>
+    <cylinders>4</cylinders>
+    <displacement>89</displacement>
+    <horsepower>71</horsepower>
+    <weight>1925</weight>
+    <acceleration>14</acceleration>
+    <model year>79</model year>
+    <origin>2</origin>
+    <car name>vw rabbit custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>302</ID>
+    <mpg>34.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>86</displacement>
+    <horsepower>65</horsepower>
+    <weight>1975</weight>
+    <acceleration>15.2</acceleration>
+    <model year>79</model year>
+    <origin>3</origin>
+    <car name>maxda glc deluxe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>303</ID>
+    <mpg>35.7</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>80</horsepower>
+    <weight>1915</weight>
+    <acceleration>14.4</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>dodge colt hatchback custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>304</ID>
+    <mpg>27.4</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>80</horsepower>
+    <weight>2670</weight>
+    <acceleration>15</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>amc spirit dl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>305</ID>
+    <mpg>25.4</mpg>
+    <cylinders>5</cylinders>
+    <displacement>183</displacement>
+    <horsepower>77</horsepower>
+    <weight>3530</weight>
+    <acceleration>20.1</acceleration>
+    <model year>79</model year>
+    <origin>2</origin>
+    <car name>mercedes benz 300d</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>306</ID>
+    <mpg>23</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>125</horsepower>
+    <weight>3900</weight>
+    <acceleration>17.4</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>cadillac eldorado</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>307</ID>
+    <mpg>27.2</mpg>
+    <cylinders>4</cylinders>
+    <displacement>141</displacement>
+    <horsepower>71</horsepower>
+    <weight>3190</weight>
+    <acceleration>24.8</acceleration>
+    <model year>79</model year>
+    <origin>2</origin>
+    <car name>peugeot 504</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>308</ID>
+    <mpg>23.9</mpg>
+    <cylinders> </cylinders>
+    <displacement>260</displacement>
+    <horsepower>90</horsepower>
+    <weight>3420</weight>
+    <acceleration>22.2</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>oldsmobile cutlass salon brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>309</ID>
+    <mpg>34.2</mpg>
+    <cylinders>4</cylinders>
+    <displacement>105</displacement>
+    <horsepower>70</horsepower>
+    <weight>2200</weight>
+    <acceleration>13.2</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>plymouth horizon</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>310</ID>
+    <mpg>34.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>105</displacement>
+    <horsepower>70</horsepower>
+    <weight>2150</weight>
+    <acceleration>14.9</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>plymouth horizon tc3</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>311</ID>
+    <mpg>31.8</mpg>
+    <cylinders>4</cylinders>
+    <displacement>85</displacement>
+    <horsepower>65</horsepower>
+    <weight>2020</weight>
+    <acceleration>19.2</acceleration>
+    <model year>79</model year>
+    <origin>3</origin>
+    <car name>jim</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>312</ID>
+    <mpg>37.3</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>69</horsepower>
+    <weight>2130</weight>
+    <acceleration>14.7</acceleration>
+    <model year>79</model year>
+    <origin>2</origin>
+    <car name>fiat strada custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>313</ID>
+    <mpg>28.4</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>90</horsepower>
+    <weight>2670</weight>
+    <acceleration>16</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>buick skylark limited</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>314</ID>
+    <mpg>28.8</mpg>
+    <cylinders>6</cylinders>
+    <displacement>173</displacement>
+    <horsepower>115</horsepower>
+    <weight>2595</weight>
+    <acceleration>11.3</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>chevrolet citation</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>315</ID>
+    <mpg>26.8</mpg>
+    <cylinders>6</cylinders>
+    <displacement>173</displacement>
+    <horsepower>115</horsepower>
+    <weight>2700</weight>
+    <acceleration>12.9</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>oldsmobile omega brougham</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>316</ID>
+    <mpg>33.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>90</horsepower>
+    <weight>2556</weight>
+    <acceleration>13.2</acceleration>
+    <model year>79</model year>
+    <origin>1</origin>
+    <car name>pontiac phoenix</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>317</ID>
+    <mpg>41.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>76</horsepower>
+    <weight>2144</weight>
+    <acceleration>14.7</acceleration>
+    <model year>80</model year>
+    <origin>2</origin>
+    <car name>vw rabbit</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>318</ID>
+    <mpg>38.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>89</displacement>
+    <horsepower>60</horsepower>
+    <weight>1968</weight>
+    <acceleration>18.8</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>toyota corolla tercel</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>319</ID>
+    <mpg>32.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>70</horsepower>
+    <weight>2120</weight>
+    <acceleration>15.5</acceleration>
+    <model year>80</model year>
+    <origin>1</origin>
+    <car name>chevrolet chevette</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>320</ID>
+    <mpg>37.2</mpg>
+    <cylinders>4</cylinders>
+    <displacement>86</displacement>
+    <horsepower>65</horsepower>
+    <weight>2019</weight>
+    <acceleration>16.4</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>datsun 310</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>321</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>90</horsepower>
+    <weight>2678</weight>
+    <acceleration>16.5</acceleration>
+    <model year>80</model year>
+    <origin>1</origin>
+    <car name>chevrolet citation</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>322</ID>
+    <mpg>26.4</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>88</horsepower>
+    <weight>2870</weight>
+    <acceleration>18.1</acceleration>
+    <model year>80</model year>
+    <origin>1</origin>
+    <car name>ford fairmont</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>323</ID>
+    <mpg>24.3</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>90</horsepower>
+    <weight>3003</weight>
+    <acceleration>20.1</acceleration>
+    <model year>80</model year>
+    <origin>1</origin>
+    <car name>amc concord</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>324</ID>
+    <mpg>19.1</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>90</horsepower>
+    <weight>3381</weight>
+    <acceleration>18.7</acceleration>
+    <model year>80</model year>
+    <origin>1</origin>
+    <car name>dodge aspen</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>325</ID>
+    <mpg>34.3</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>78</horsepower>
+    <weight>2188</weight>
+    <acceleration>15.8</acceleration>
+    <model year>80</model year>
+    <origin>2</origin>
+    <car name>audi 4000</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>326</ID>
+    <mpg>29.8</mpg>
+    <cylinders>4</cylinders>
+    <displacement>134</displacement>
+    <horsepower>90</horsepower>
+    <weight>2711</weight>
+    <acceleration>15.5</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>toyota corona liftback</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>327</ID>
+    <mpg>31.3</mpg>
+    <cylinders>4</cylinders>
+    <displacement>120</displacement>
+    <horsepower>75</horsepower>
+    <weight>2542</weight>
+    <acceleration>17.5</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>mazda 626</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>328</ID>
+    <mpg>37</mpg>
+    <cylinders>4</cylinders>
+    <displacement> </displacement>
+    <horsepower>92</horsepower>
+    <weight>2434</weight>
+    <acceleration>15</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>datsun 510 hatchback</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>329</ID>
+    <mpg>32.2</mpg>
+    <cylinders>4</cylinders>
+    <displacement>108</displacement>
+    <horsepower>75</horsepower>
+    <weight>2265</weight>
+    <acceleration>15.2</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>toyota corolla</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>330</ID>
+    <mpg>46.6</mpg>
+    <cylinders>4</cylinders>
+    <displacement>86</displacement>
+    <horsepower>65</horsepower>
+    <weight>2110</weight>
+    <acceleration>17.9</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>mazda glc</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>331</ID>
+    <mpg>27.9</mpg>
+    <cylinders>4</cylinders>
+    <displacement>156</displacement>
+    <horsepower>105</horsepower>
+    <weight>2800</weight>
+    <acceleration>14.4</acceleration>
+    <model year>80</model year>
+    <origin>1</origin>
+    <car name>dodge colt</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>332</ID>
+    <mpg>40.8</mpg>
+    <cylinders>4</cylinders>
+    <displacement>85</displacement>
+    <horsepower>65</horsepower>
+    <weight>2110</weight>
+    <acceleration>19.2</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>datsun 210</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>333</ID>
+    <mpg>44.3</mpg>
+    <cylinders>4</cylinders>
+    <displacement>90</displacement>
+    <horsepower>48</horsepower>
+    <weight>2085</weight>
+    <acceleration>21.7</acceleration>
+    <model year>80</model year>
+    <origin>2</origin>
+    <car name>vw rabbit c (diesel)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>334</ID>
+    <mpg>43.4</mpg>
+    <cylinders>4</cylinders>
+    <displacement>90</displacement>
+    <horsepower>48</horsepower>
+    <weight>2335</weight>
+    <acceleration>23.7</acceleration>
+    <model year>80</model year>
+    <origin>2</origin>
+    <car name>volkswagen dasher (diesel)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>335</ID>
+    <mpg>36.4</mpg>
+    <cylinders>5</cylinders>
+    <displacement>121</displacement>
+    <horsepower>67</horsepower>
+    <weight>2950</weight>
+    <acceleration>19.9</acceleration>
+    <model year>80</model year>
+    <origin>2</origin>
+    <car name>audi 5000s (diesel)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>336</ID>
+    <mpg>30</mpg>
+    <cylinders>4</cylinders>
+    <displacement>146</displacement>
+    <horsepower>67</horsepower>
+    <weight>3250</weight>
+    <acceleration>21.8</acceleration>
+    <model year>80</model year>
+    <origin>2</origin>
+    <car name>mercedes-benz 240d</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>337</ID>
+    <mpg>44.6</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>67</horsepower>
+    <weight>18500</weight>
+    <acceleration>13.8</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>honda civic 1500 gl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>338</ID>
+    <mpg>40.9</mpg>
+    <cylinders>4</cylinders>
+    <displacement>85</displacement>
+    <horsepower>NA</horsepower>
+    <weight>1835</weight>
+    <acceleration>17.3</acceleration>
+    <model year>80</model year>
+    <origin>2</origin>
+    <car name>renault lecar deluxe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>339</ID>
+    <mpg>33.8</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>67</horsepower>
+    <weight>2145</weight>
+    <acceleration>18</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>subaru dl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>340</ID>
+    <mpg>29.8</mpg>
+    <cylinders>4</cylinders>
+    <displacement>89</displacement>
+    <horsepower>62</horsepower>
+    <weight>1845</weight>
+    <acceleration>15.3</acceleration>
+    <model year>80</model year>
+    <origin>2</origin>
+    <car name>vokswagen rabbit</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>341</ID>
+    <mpg>32.7</mpg>
+    <cylinders>6</cylinders>
+    <displacement>168</displacement>
+    <horsepower>132</horsepower>
+    <weight>2910</weight>
+    <acceleration>11.4</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>datsun 280-zx</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>342</ID>
+    <mpg>23.7</mpg>
+    <cylinders>3</cylinders>
+    <displacement>70</displacement>
+    <horsepower>100</horsepower>
+    <weight>2420</weight>
+    <acceleration>12.5</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>mazda rx-7 gs</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>343</ID>
+    <mpg>35</mpg>
+    <cylinders>4</cylinders>
+    <displacement>122</displacement>
+    <horsepower>88</horsepower>
+    <weight>2500</weight>
+    <acceleration>15.1</acceleration>
+    <model year>80</model year>
+    <origin>2</origin>
+    <car name>triumph tr7 coupe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>344</ID>
+    <mpg>23.6</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>NA</horsepower>
+    <weight>2905</weight>
+    <acceleration>14.3</acceleration>
+    <model year>80</model year>
+    <origin>1</origin>
+    <car name>ford mustang cobra</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>345</ID>
+    <mpg>32.4</mpg>
+    <cylinders>4</cylinders>
+    <displacement>107</displacement>
+    <horsepower>72</horsepower>
+    <weight>2290</weight>
+    <acceleration>17</acceleration>
+    <model year>80</model year>
+    <origin>3</origin>
+    <car name>honda accord</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>346</ID>
+    <mpg>27.2</mpg>
+    <cylinders>4</cylinders>
+    <displacement>135</displacement>
+    <horsepower>84</horsepower>
+    <weight>2490</weight>
+    <acceleration>15.7</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>plymouth reliant</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>347</ID>
+    <mpg>26.6</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>84</horsepower>
+    <weight>2635</weight>
+    <acceleration>16.4</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>buick skylark</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>348</ID>
+    <mpg>25.8</mpg>
+    <cylinders>4</cylinders>
+    <displacement>156</displacement>
+    <horsepower>92</horsepower>
+    <weight>2620</weight>
+    <acceleration>14.4</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>dodge aries wagon (sw)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>349</ID>
+    <mpg>23.5</mpg>
+    <cylinders>6</cylinders>
+    <displacement>173</displacement>
+    <horsepower>110</horsepower>
+    <weight>2725</weight>
+    <acceleration>12.6</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>chevrolet citation</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>350</ID>
+    <mpg>30</mpg>
+    <cylinders>4</cylinders>
+    <displacement>135</displacement>
+    <horsepower>84</horsepower>
+    <weight>2385</weight>
+    <acceleration>12.9</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>plymouth reliant</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>351</ID>
+    <mpg>39.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>79</displacement>
+    <horsepower>58</horsepower>
+    <weight>1755</weight>
+    <acceleration>16.9</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>toyota starlet</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>352</ID>
+    <mpg>39</mpg>
+    <cylinders>4</cylinders>
+    <displacement>86</displacement>
+    <horsepower>64</horsepower>
+    <weight>1875</weight>
+    <acceleration>16.4</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>plymouth champ</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>353</ID>
+    <mpg>35.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>81</displacement>
+    <horsepower>60</horsepower>
+    <weight>760</weight>
+    <acceleration>16.1</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>honda civic 1300</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>354</ID>
+    <mpg>32.3</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>67</horsepower>
+    <weight>2065</weight>
+    <acceleration>17.8</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>subaru</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>355</ID>
+    <mpg>37</mpg>
+    <cylinders>4</cylinders>
+    <displacement>85</displacement>
+    <horsepower>65</horsepower>
+    <weight>1975</weight>
+    <acceleration>19.4</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>datsun 210 mpg</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>356</ID>
+    <mpg>37.7</mpg>
+    <cylinders>4</cylinders>
+    <displacement>89</displacement>
+    <horsepower>62</horsepower>
+    <weight>2050</weight>
+    <acceleration>17.3</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>toyota tercel</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>357</ID>
+    <mpg>34.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>68</horsepower>
+    <weight>1985</weight>
+    <acceleration>16</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>mazda glc 4</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>358</ID>
+    <mpg>34.7</mpg>
+    <cylinders>4</cylinders>
+    <displacement>105</displacement>
+    <horsepower>63</horsepower>
+    <weight>2215</weight>
+    <acceleration>14.9</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>plymouth horizon 4</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>359</ID>
+    <mpg>34.4</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>65</horsepower>
+    <weight>2045</weight>
+    <acceleration>16.2</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>ford escort 4w</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>360</ID>
+    <mpg>29.9</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>65</horsepower>
+    <weight>2380</weight>
+    <acceleration>20.7</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>ford escort 2h</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>361</ID>
+    <mpg>33</mpg>
+    <cylinders>4</cylinders>
+    <displacement>105</displacement>
+    <horsepower>74</horsepower>
+    <weight>2190</weight>
+    <acceleration>14.2</acceleration>
+    <model year>81</model year>
+    <origin>2</origin>
+    <car name>volkswagen jetta</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>362</ID>
+    <mpg>34.5</mpg>
+    <cylinders>4</cylinders>
+    <displacement>100</displacement>
+    <horsepower>NA</horsepower>
+    <weight>2320</weight>
+    <acceleration>15.8</acceleration>
+    <model year>81</model year>
+    <origin>2</origin>
+    <car name>renault 18i</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>363</ID>
+    <mpg>33.7</mpg>
+    <cylinders>4</cylinders>
+    <displacement>107</displacement>
+    <horsepower>75</horsepower>
+    <weight>2210</weight>
+    <acceleration>14.4</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>honda prelude</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>364</ID>
+    <mpg>32.4</mpg>
+    <cylinders>4</cylinders>
+    <displacement>108</displacement>
+    <horsepower>75</horsepower>
+    <weight>2350</weight>
+    <acceleration>16.8</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>toyota corolla</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>365</ID>
+    <mpg>32.9</mpg>
+    <cylinders>4</cylinders>
+    <displacement>119</displacement>
+    <horsepower>100</horsepower>
+    <weight>2615</weight>
+    <acceleration>14.8</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>datsun 200sx</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>366</ID>
+    <mpg>31.6</mpg>
+    <cylinders>4</cylinders>
+    <displacement>120</displacement>
+    <horsepower>74</horsepower>
+    <weight>2635</weight>
+    <acceleration>18.3</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>mazda 626</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>367</ID>
+    <mpg>28.1</mpg>
+    <cylinders>4</cylinders>
+    <displacement>141</displacement>
+    <horsepower>80</horsepower>
+    <weight>3230</weight>
+    <acceleration>20.4</acceleration>
+    <model year>81</model year>
+    <origin>2</origin>
+    <car name>peugeot 505s turbo diesel</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>368</ID>
+    <mpg>NA</mpg>
+    <cylinders>4</cylinders>
+    <displacement>121</displacement>
+    <horsepower>110</horsepower>
+    <weight>2800</weight>
+    <acceleration>15.4</acceleration>
+    <model year>81</model year>
+    <origin>2</origin>
+    <car name>saab 900s</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>369</ID>
+    <mpg>30.7</mpg>
+    <cylinders>6</cylinders>
+    <displacement>145</displacement>
+    <horsepower>76</horsepower>
+    <weight>3160</weight>
+    <acceleration>19.6</acceleration>
+    <model year>81</model year>
+    <origin>2</origin>
+    <car name>volvo diesel</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>370</ID>
+    <mpg>25.4</mpg>
+    <cylinders>6</cylinders>
+    <displacement>168</displacement>
+    <horsepower>116</horsepower>
+    <weight>2900</weight>
+    <acceleration>12.6</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>toyota cressida</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>371</ID>
+    <mpg>24.2</mpg>
+    <cylinders>6</cylinders>
+    <displacement>146</displacement>
+    <horsepower>120</horsepower>
+    <weight>2930</weight>
+    <acceleration>13.8</acceleration>
+    <model year>81</model year>
+    <origin>3</origin>
+    <car name>datsun 810 maxima</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>372</ID>
+    <mpg>22.4</mpg>
+    <cylinders>6</cylinders>
+    <displacement>231</displacement>
+    <horsepower>110</horsepower>
+    <weight>3415</weight>
+    <acceleration>15.8</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>buick century</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>373</ID>
+    <mpg>26.6</mpg>
+    <cylinders>8</cylinders>
+    <displacement>350</displacement>
+    <horsepower>105</horsepower>
+    <weight>3725</weight>
+    <acceleration>19</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>oldsmobile cutlass ls</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>374</ID>
+    <mpg>20.2</mpg>
+    <cylinders>6</cylinders>
+    <displacement>200</displacement>
+    <horsepower>88</horsepower>
+    <weight>3060</weight>
+    <acceleration>17.1</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>ford granada gl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>375</ID>
+    <mpg>17.6</mpg>
+    <cylinders>6</cylinders>
+    <displacement>225</displacement>
+    <horsepower>85</horsepower>
+    <weight>3465</weight>
+    <acceleration>16.6</acceleration>
+    <model year>81</model year>
+    <origin>1</origin>
+    <car name>chrysler lebaron salon</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>376</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>112</displacement>
+    <horsepower>88</horsepower>
+    <weight>2605</weight>
+    <acceleration>19.6</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>chevrolet cavalier</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>377</ID>
+    <mpg>27</mpg>
+    <cylinders>4</cylinders>
+    <displacement>112</displacement>
+    <horsepower>88</horsepower>
+    <weight>2640</weight>
+    <acceleration>18.6</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>chevrolet cavalier wagon</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>378</ID>
+    <mpg>34</mpg>
+    <cylinders>4</cylinders>
+    <displacement>112</displacement>
+    <horsepower>88</horsepower>
+    <weight>2395</weight>
+    <acceleration>18</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>chevrolet cavalier 2-door</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>379</ID>
+    <mpg>31</mpg>
+    <cylinders>4</cylinders>
+    <displacement>112</displacement>
+    <horsepower>85</horsepower>
+    <weight>2575</weight>
+    <acceleration>16.2</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>pontiac j2000 se hatchback</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>380</ID>
+    <mpg>29</mpg>
+    <cylinders>4</cylinders>
+    <displacement>135</displacement>
+    <horsepower>84</horsepower>
+    <weight>2525</weight>
+    <acceleration>16</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>dodge aries se</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>381</ID>
+    <mpg>27</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>90</horsepower>
+    <weight>2735</weight>
+    <acceleration>18</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>pontiac phoenix</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>382</ID>
+    <mpg>24</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>92</horsepower>
+    <weight>2865</weight>
+    <acceleration>16.4</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>ford fairmont futura</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>383</ID>
+    <mpg>23</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>NA</horsepower>
+    <weight>3035</weight>
+    <acceleration>20.5</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>amc concord dl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>384</ID>
+    <mpg>36</mpg>
+    <cylinders>4</cylinders>
+    <displacement>105</displacement>
+    <horsepower>74</horsepower>
+    <weight>1980</weight>
+    <acceleration>15.3</acceleration>
+    <model year>82</model year>
+    <origin>2</origin>
+    <car name>volkswagen rabbit l</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>385</ID>
+    <mpg>37</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>68</horsepower>
+    <weight>2025</weight>
+    <acceleration>18.2</acceleration>
+    <model year>82</model year>
+    <origin>3</origin>
+    <car name>mazda glc custom l</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>386</ID>
+    <mpg>31</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>68</horsepower>
+    <weight>1970</weight>
+    <acceleration>17.6</acceleration>
+    <model year>82</model year>
+    <origin>3</origin>
+    <car name>mazda glc custom</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>387</ID>
+    <mpg>38</mpg>
+    <cylinders>4</cylinders>
+    <displacement>105</displacement>
+    <horsepower>63</horsepower>
+    <weight>2125</weight>
+    <acceleration>14.7</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>plymouth horizon miser</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>388</ID>
+    <mpg>36</mpg>
+    <cylinders>4</cylinders>
+    <displacement>98</displacement>
+    <horsepower>70</horsepower>
+    <weight>2125</weight>
+    <acceleration>17.3</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>mercury lynx l</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>389</ID>
+    <mpg>36</mpg>
+    <cylinders>4</cylinders>
+    <displacement>120</displacement>
+    <horsepower>88</horsepower>
+    <weight>2160</weight>
+    <acceleration>14.5</acceleration>
+    <model year> </model year>
+    <origin>3</origin>
+    <car name>nissan stanza xe</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>390</ID>
+    <mpg>36</mpg>
+    <cylinders>4</cylinders>
+    <displacement>107</displacement>
+    <horsepower>75</horsepower>
+    <weight>2205</weight>
+    <acceleration>14.5</acceleration>
+    <model year>82</model year>
+    <origin>3</origin>
+    <car name>honda accord</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>391</ID>
+    <mpg>34</mpg>
+    <cylinders>4</cylinders>
+    <displacement>108</displacement>
+    <horsepower>70</horsepower>
+    <weight>2245</weight>
+    <acceleration>16.9</acceleration>
+    <model year>82</model year>
+    <origin>3</origin>
+    <car name>toyota corolla</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>392</ID>
+    <mpg>38</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>67</horsepower>
+    <weight>1965</weight>
+    <acceleration>15</acceleration>
+    <model year>82</model year>
+    <origin>3</origin>
+    <car name>honda civic</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>393</ID>
+    <mpg>32</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>67</horsepower>
+    <weight>1965</weight>
+    <acceleration>15.7</acceleration>
+    <model year>82</model year>
+    <origin>3</origin>
+    <car name>honda civic (auto)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>394</ID>
+    <mpg>38</mpg>
+    <cylinders>4</cylinders>
+    <displacement>91</displacement>
+    <horsepower>67</horsepower>
+    <weight>1995</weight>
+    <acceleration>16.2</acceleration>
+    <model year>82</model year>
+    <origin>3</origin>
+    <car name>datsun 310 gx</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>395</ID>
+    <mpg>25</mpg>
+    <cylinders>6</cylinders>
+    <displacement>181</displacement>
+    <horsepower>110</horsepower>
+    <weight>2945</weight>
+    <acceleration>16.4</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>buick century limited</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>396</ID>
+    <mpg>38</mpg>
+    <cylinders>6</cylinders>
+    <displacement>262</displacement>
+    <horsepower>85</horsepower>
+    <weight>3015</weight>
+    <acceleration>17</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>oldsmobile cutlass ciera (diesel)</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>397</ID>
+    <mpg>26</mpg>
+    <cylinders>4</cylinders>
+    <displacement>156</displacement>
+    <horsepower>92</horsepower>
+    <weight>2585</weight>
+    <acceleration>14.5</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>chrysler lebaron medallion</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>398</ID>
+    <mpg>22</mpg>
+    <cylinders>6</cylinders>
+    <displacement>232</displacement>
+    <horsepower>112</horsepower>
+    <weight>2835</weight>
+    <acceleration>14.7</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>ford granada l</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>399</ID>
+    <mpg>32</mpg>
+    <cylinders>4</cylinders>
+    <displacement>144</displacement>
+    <horsepower>96</horsepower>
+    <weight>2665</weight>
+    <acceleration>13.9</acceleration>
+    <model year>82</model year>
+    <origin>3</origin>
+    <car name>toyota celica gt</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>400</ID>
+    <mpg>36</mpg>
+    <cylinders>4</cylinders>
+    <displacement>135</displacement>
+    <horsepower>84</horsepower>
+    <weight>2370</weight>
+    <acceleration>13</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>dodge charger 2.2</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>401</ID>
+    <mpg>27</mpg>
+    <cylinders>4</cylinders>
+    <displacement>151</displacement>
+    <horsepower>90</horsepower>
+    <weight>2950</weight>
+    <acceleration>17.3</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>chevrolet camaro</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>402</ID>
+    <mpg>27</mpg>
+    <cylinders>4</cylinders>
+    <displacement>140</displacement>
+    <horsepower>86</horsepower>
+    <weight>2790</weight>
+    <acceleration>15.6</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>ford mustang gl</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>403</ID>
+    <mpg>44</mpg>
+    <cylinders>4</cylinders>
+    <displacement>97</displacement>
+    <horsepower>52</horsepower>
+    <weight>2130</weight>
+    <acceleration>24.6</acceleration>
+    <model year>82</model year>
+    <origin>2</origin>
+    <car name>vw pickup</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>404</ID>
+    <mpg>32</mpg>
+    <cylinders>4</cylinders>
+    <displacement>135</displacement>
+    <horsepower>84</horsepower>
+    <weight>2295</weight>
+    <acceleration>11.6</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>dodge rampage</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>405</ID>
+    <mpg>28</mpg>
+    <cylinders>4</cylinders>
+    <displacement>120</displacement>
+    <horsepower>79</horsepower>
+    <weight>2625</weight>
+    <acceleration>18.6</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>ford ranger</car name>
+    <></>
+  </vehicle>
+  <vehicle>
+    <ID>406</ID>
+    <mpg>31</mpg>
+    <cylinders>4</cylinders>
+    <displacement>119</displacement>
+    <horsepower>82</horsepower>
+    <weight>2720</weight>
+    <acceleration>19.4</acceleration>
+    <model year>82</model year>
+    <origin>1</origin>
+    <car name>chevy s-10</car name>
+    <></>
+  </vehicle>
+</vehicles>
